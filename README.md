@@ -1,4 +1,3 @@
-Here's a sample `README.md` for your custom Discord bot project, **BotinJS**:
 
 ```markdown
 # BotinJS
@@ -98,21 +97,6 @@ BotinJS is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/BotinJS/issues).
+If you encounter any issues or have any questions, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/Botinjs/issues).
 
 ---
-
-Happy botting! 🎉
-
-```
-
-### Key Sections:
-
-1. **Features**: Briefly describe what the bot can do.
-2. **Prerequisites**: List the tools and platforms required to set up and run the bot.
-3. **Installation**: Provide step-by-step instructions for setting up the bot, including how to get the Discord token and GitHub SSH setup.
-4. **Usage**: Describe the commands users can run once the bot is online.
-5. **Contributing**: Include guidelines for other developers who want to contribute to the project.
-6. **License**: Add a section for licensing, in this case, using the MIT License.
-
-Feel free to customize any section to fit your project more accurately!
