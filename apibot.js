@@ -9,7 +9,7 @@ const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
 const DISCORD_TOKEN = process.env.BOT_TOKEN;
-const CHANNEL_ID = process.env.CHANNEL_ID || '1280533796093034659';
+const CHANNEL_ID = process.env.CHANNEL_ID || 'CHANNEL_ID';
 const IGNORE_PREFIX = '!'; // Prefix to ignore
 
 const MEMORY_FILE = path.join(__dirname, 'memory.json');
